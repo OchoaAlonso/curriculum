@@ -11,9 +11,7 @@ class Habilidades extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Mantenimiento de Software</h5>
-                <h5></h5><h6>Mantenimiento de equipos de computo</h6>
-               
-                
+                <h6>Mantenimiento de equipos de computo</h6>
            </div>
           </div>
         </li>
@@ -22,7 +20,7 @@ class Habilidades extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Instalacion</h5>
-                <h5></h5><h6>Instalacionde paqueterias, sistemas operativos y disvessos programas.</h6>
+                <h6>Instalacionde paqueterias, sistemas operativos y disvessos programas.</h6>
                 
                
                 
@@ -34,7 +32,7 @@ class Habilidades extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Auditoria</h5>
-                <h5></h5><h6>Auditoria de redes y de CCTV</h6>
+                <h6>Auditoria de redes y de CCTV</h6>
                 
            </div>
           </div>
@@ -44,7 +42,7 @@ class Habilidades extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Instalacion</h5>
-                <h5></h5><h6>Instalaciuon de CCTV, Alarmas GSM, Cercos electicos, etc</h6>
+                <h6>Instalaciuon de CCTV, Alarmas GSM, Cercos electicos, etc</h6>
                 
            </div>
           </div>

@@ -32,7 +32,7 @@ class Navbar extends Component{
                     <Link to="/habilidades" className="nav-link">Habilidades</Link>
                   </li>
                   <li className="nav-item">
-                    <Link to="/habilidades" className="nav-link">Formulario</Link>
+                    <Link to="/peticiones" className="nav-link">Peticiones</Link>
                   </li>
                 </ul>
               </div>

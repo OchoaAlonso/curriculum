@@ -13,7 +13,7 @@ class Experiencia extends Component {
                 <h5 class="card-title">IRC Telecomunicasiones</h5>
                 <h5>Tipo:</h5><h6>Instaladora</h6>
                 <p>Periodo: <h6>Mayo-Agosto-2017</h6></p>
-                <p><h6></h6></p>
+                
                 <p>Ubicación: <h6>Pachuca & Canadá, Geovillas, 42083 Pachuca de Soto, Hgo.</h6></p>
                 <a href="/" class="btn btn-success" >Culhuacan</a>
                 <p class="card-text"><small class="text-muted"> </small></p>
@@ -27,7 +27,7 @@ class Experiencia extends Component {
                 <h5 class="card-title">SEG Matriz Pachuc</h5>
                 <h5>Tipo:</h5><h6>Instaladora</h6>
                 <p>Periodo: <h6>Mayo-Agosto-2017</h6></p>
-                <p><h6></h6></p>
+                
                 <p>Ubicación: <h6>Pachuca & Canadá, Geovillas, 42083 Pachuca de Soto, Hgo.</h6></p>
                 <a href="http://www.segmexico.com.mx/" class="btn btn-success" >  SEG  </a>
                 <p class="card-text"><small class="text-muted"> </small></p>

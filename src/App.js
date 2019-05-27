@@ -9,7 +9,7 @@ import Reconocimientos from './Views/Reconocimientos';
 import Premios from './Views/Premios';
 import Habilidades from './Views/Habilidades';
 import Principal from './Views/Principal';
-import Formulario from './Views/Formulario';
+import Peticiones from './Views/Peticiones';
 import { 
   BrowserRouter as Router, Route, Switch
 } from 'react-router-dom';
@@ -29,7 +29,7 @@ function App() {
           <Route path="/reconocimientos" component={Reconocimientos}/>
           <Route path="/premios" component={Premios}/>
           <Route path="/habilidades" component={Habilidades}/>
-          <Route path="/formulario" component={Formulario}/>
+          <Route path="/peticiones" component={Peticiones}/>
         </Switch>
         <Footer/>
     </Router>

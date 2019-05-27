@@ -11,11 +11,8 @@ class Premios extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Torneo de Halo</h5>
-                <h5></h5><h6>Primer lugar en torneo de HALO, como parte de la semana de las TI</h6>
-                <p>Fecha: <h6>Agosto-2015</h6></p>
-                <p><h6></h6></p>
-                <p><h6></h6></p>
-                
+                <h6>Primer lugar en torneo de HALO, como parte de la semana de las TI</h6>
+                <p>Fecha: Agosto-2015</p>     
            </div>
           </div>
         </li>
@@ -24,10 +21,9 @@ class Premios extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">PetFood</h5>
-                <h5></h5><h6>Segundo lugar en prollectos inivadores, con un dispensador de alimentos para mascptas.</h6>
-                <p><h6>Julio-2018</h6></p>
-                <p><h6></h6></p>
-                
+                <h6>Segundo lugar en prollectos inivadores, con un dispensador de alimentos para mascptas.</h6>
+                <p>Julio-2018</p>
+              
            </div>
           </div>
       </li>
@@ -36,9 +32,9 @@ class Premios extends Component {
               <div align="center">
                <div class="card-body">
                 <h5 class="card-title">Por que Estudiar</h5>
-                <h5></h5><h6>Primer lugar precentacion del tema por que seguir estudiasndo</h6>
+                <h6>Primer lugar precentacion del tema por que seguir estudiasndo</h6>
                 <p><h6>Junio-2016</h6></p>
-                <p><h6></h6></p>
+              
                 
            </div>
           </div>
